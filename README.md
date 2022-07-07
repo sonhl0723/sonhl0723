@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Hong_il GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhl0723&&show_icons=true&theme=graywhite)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=aiqfome&link=[https://sonhl0723.github.io/](https://velog.io/@sonhl0723))]([https://sonhl0723.github.io/](https://velog.io/@sonhl0723))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Hong_il)](https://velog.io/@sonhl0723) 
